@@ -26,26 +26,9 @@
 			"body":"\"grant_type\":\"client_credentials\",\"clientId\":\"p5yu55zdyk8clwtspkl4f4ei\",\"clientSecret\":\"UrguF8kdqbVIKo9ruZ77tEFa\"" 
 		}
 	},
-	"configurationArguments": {
-		"save": {
-			"url": "URI/for/your/activity/save"
-		},
-		"publish": {
-			"url": "URI/for/your/activity/publish"
-		},
-		"validate": {
-			"url": "URI/for/your/activity/validate"
-		},
-		"stop": {
-			"url": "URI/for/your/activity/stop"
-		}
-	},
-
 	"userInterfaces": {
-		"configModal": {
-			"height": 200,
-			"width": 300,
-			"fullscreen": true
+		"configInspector":{
+			"size":"medium"
 		}
 	},
 	"schema": {
