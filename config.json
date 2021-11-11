@@ -26,22 +26,22 @@
                     "foundSignupDate": ""
                 }
             ],
-            "url": "https://en8rba6bz3ei20v.m.pipedream.net/execute",
+            "url": "https://en8rba6bz3ei20v.m.pipedream.net",
             "headers": "{\"Authorization\":\"Bearer theToken\"}" 
         }
     },
     "configurationArguments": {
        "save": {
-           "url": "https://en8rba6bz3ei20v.m.pipedream.net/save"
+           "url": "https://en8rba6bz3ei20v.m.pipedream.net"
        },
        "publish": {
-           "url": "https://en8rba6bz3ei20v.m.pipedream.net/publish"
+           "url": "https://en8rba6bz3ei20v.m.pipedream.net"
        },
        "validate": {
-           "url": "https://en8rba6bz3ei20v.m.pipedream.net/validate"
+           "url": "https://en8rba6bz3ei20v.m.pipedream.net"
        },
        "stop": {
-           "url": "https://en8rba6bz3ei20v.m.pipedream.net/stop"
+           "url": "https://en8rba6bz3ei20v.m.pipedream.net"
        }
     },
     "userInterfaces": {
