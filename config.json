@@ -24,11 +24,9 @@
       "outArguments": [],
       "url": "https://ensy7y4pgb5ipx9.m.pipedream.net/execute",
       "verb": "POST",
-      "body": "{\"Authorization\":\"Bearer theToken\"}" ,
+      "body": "{\"grant_type\":\"client_credentials\",\"clientId\":\"p5yu55zdyk8clwtspkl4f4ei\"}" ,
       "headers": "{\"Authorization\":\"Bearer theToken\"}" ,
-      "format": "json",
-      "useJwt": true,
-      "timeout": 10000
+      "format": "json"
     }
   },
   "configurationArguments": {
