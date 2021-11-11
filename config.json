@@ -21,10 +21,8 @@
                     "phoneNumber": "{{Contact.Default.PhoneNumber}}"
                 }
             ],
-            "url": "https://ens2pfv4xtvpwxi.m.pipedream.net",
-          
+            "url": "https://ens2pfv4xtvpwxi.m.pipedream.net",        
             "headers": "{\"Authorization\":\"Bearer theToken\"}"
-
         }
     },
     "configurationArguments": {
