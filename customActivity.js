@@ -1,5 +1,3 @@
-Postmonger is required for communication between Journey Builder and the activity.
-
 define([
     'postmonger'
 ], function(
