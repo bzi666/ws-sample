@@ -21,11 +21,6 @@
                     "phoneNumber": "{{Contact.Default.PhoneNumber}}"
                 }
             ],
-            "outArguments": [
-                {
-                    
-                }
-            ],
             "url": "https://en8rba6bz3ei20v.m.pipedream.net/excute"
         }
     },
