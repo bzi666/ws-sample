@@ -1,7 +1,7 @@
 {
   "workflowApiVersion": "1.1",
   "metaData": {
-    "icon": "facicon.ico",
+    "icon": "favicon.ico",
     "category": "message"
   },
   "type": "REST",
@@ -26,9 +26,9 @@
       "verb": "POST",
       "body": "{\"Authorization\":\"Bearer theToken\"}",
       "headers": "{\"Authorization\":\"Bearer theToken\"}" ,
-      "format": "json",
-      "useJwt": true,
-      "timeout": 10000
+      "format": "json"
+      //"useJwt": true,
+      //"timeout": 10000
     }
   },
   "configurationArguments": {
