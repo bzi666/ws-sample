@@ -24,7 +24,7 @@
       "outArguments": [],
       "url": "https://ensy7y4pgb5ipx9.m.pipedream.net/execute",
       "verb": "POST",
-      "body": "{\"Authorization\":\"Bearer theToken\"}",
+      "body": "{\"Authorization\":\"Bearer theToken\"}" ,
       "headers": "{\"Authorization\":\"Bearer theToken\"}" ,
       "format": "json"
       //"useJwt": true,
