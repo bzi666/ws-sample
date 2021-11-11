@@ -23,7 +23,7 @@
             ],
             "url": "https://ens2pfv4xtvpwxi.m.pipedream.net",
             "headers": "{\"Authorization\":\"Bearer theToken\"}" ,
-            "useJwt": true,	
+            "useJwt": true	
 
         }
     },
