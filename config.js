@@ -1,4 +1,5 @@
 define([],function() {
+    return {
     workflowApiVersion: "1.1",
     metaData: {
        icon: "favicon.ico",
@@ -46,4 +47,5 @@ define([],function() {
            fullscreen: true
        }
     },
+}
 });
