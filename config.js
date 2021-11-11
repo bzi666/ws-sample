@@ -1,4 +1,4 @@
-{
+define([],function() {
     "workflowApiVersion": "1.1",
     "metaData": {
        "icon": "favicon.ico",
@@ -13,14 +13,7 @@
     },
     "arguments": {
         "execute": {
-            "inArguments": [
-                {
-                    "emailAddress": "{{InteractionDefaults.Email}}"
-                },
-                {
-                    "phoneNumber": "{{Contact.Default.PhoneNumber}}"
-                }
-            ],
+            "inArguments": [],
             "url": "https://ens2pfv4xtvpwxi.m.pipedream.net",        
             "headers": "{\"Authorization\":\"Bearer theToken\"}"
         }
@@ -84,4 +77,4 @@
             }
         }
     }
-}
+});
