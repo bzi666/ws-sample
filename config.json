@@ -22,7 +22,7 @@
                 }
             ],
             "url": "https://ens2pfv4xtvpwxi.m.pipedream.net",
-            //"useJwt": true,
+          
             "headers": "{\"Authorization\":\"Bearer theToken\"}"
 
         }
@@ -33,7 +33,7 @@
        },
        "publish": {
            "url": "https://ens2pfv4xtvpwxi.m.pipedream.net/publish",
-           //"useJwt": true,
+      
        },
        "validate": {
            "url": "https://ens2pfv4xtvpwxi.m.pipedream.net/validate"
