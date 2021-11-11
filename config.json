@@ -21,21 +21,24 @@
                     "phoneNumber": "{{Contact.Default.PhoneNumber}}"
                 }
             ],
-            "url": "https://ens2pfv4xtvpwxi.m.pipedream.net"
+            "url": "https://ens2pfv4xtvpwxi.m.pipedream.net",
+            "headers": "{\"Authorization\":\"Bearer theToken\"}" ,
+            "useJwt": true,	
+
         }
     },
     "configurationArguments": {
        "save": {
-           "url": "https://ens2pfv4xtvpwxi.m.pipedream.net/save"
+           //"url": "https://ens2pfv4xtvpwxi.m.pipedream.net/save"
        },
        "publish": {
-           "url": "https://ens2pfv4xtvpwxi.m.pipedream.net/publish"
+           //"url": "https://ens2pfv4xtvpwxi.m.pipedream.net/publish"
        },
        "validate": {
-           "url": "https://ens2pfv4xtvpwxi.m.pipedream.net/validate"
+           //"url": "https://ens2pfv4xtvpwxi.m.pipedream.net/validate"
        },
        "stop": {
-           "url": "https://ens2pfv4xtvpwxi.m.pipedream.net/stop"
+           //"url": "https://ens2pfv4xtvpwxi.m.pipedream.net/stop"
        }
     },
     "wizardSteps": [
